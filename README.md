@@ -1,5 +1,5 @@
 # client-server-data-transfer
-Simple backend for client-end and server-end data transfer over mostly TCP and also UDP connections
+Simple backend for client-end and server-end data transfer over mostly TCP and also UDP protocols
 
 Has the basic functionality of a Zoom/Microsoft Teams conferencing platform.
 * Basic Authentication
